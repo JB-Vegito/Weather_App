@@ -1,4 +1,6 @@
-const apikey = "1f904ad54f6cb0851e3a1ced994ea28f";
+// IMPORTANT !!!!
+
+// const apikey = "Create an api key on openweather website and use it"
 
 const weatherDataEl = document.getElementById("weather-data")
 
